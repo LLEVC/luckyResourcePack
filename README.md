@@ -4,8 +4,8 @@ This resourcepack has assets for plugins, custom items, etc
 
 Asset Credits
 -------------
-RaulH22 (on Planet Minecraft)
-The people of VanillaTweaks.net
+RaulH22 (on Planet Minecraft), 
+The people of VanillaTweaks.net, 
 LLEVC (Me)
 
 # Plugin assets included
